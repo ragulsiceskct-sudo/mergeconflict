@@ -1,1 +1,1 @@
-game:cricket
+game:badminton
